@@ -1,5 +1,4 @@
 # face-detection-project
-This project is about creating a project using python for ai and ml program
 import cv2
 face_cap = cv2.CascadeClassifier("C:/Users/thaku/Downloads/haarcascade_frontalface_default.xml")
 video_cap = cv2.VideoCapture(0)
